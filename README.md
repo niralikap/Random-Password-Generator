@@ -20,6 +20,6 @@ In this challenge, I have developed a random password generator. This website ha
 
 ![image](./Assets/images/screenshot.jpg)
 
-![video](./Assets/images/video.mov)
+![video](./Assets/images/Video.mov)
 
 
