@@ -22,4 +22,9 @@ In this challenge, I have developed a random password generator. This website ha
 
 ![video](./Assets/images/Video.mov)
 
+Github URL:
+https://github.com/niralikap/Random-Password-Generator
+
+Website URL:
+https://niralikap.github.io/Random-Password-Generator/
 
